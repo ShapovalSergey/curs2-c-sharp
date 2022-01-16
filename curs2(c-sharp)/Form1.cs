@@ -21,5 +21,17 @@ namespace curs2_c_sharp_
         {
 
         }
+
+        private void doctor_Click(object sender, EventArgs e)
+        {
+            Doc1 f = new Doc1();
+            f.Show();
+        }
+
+        private void patient_Click(object sender, EventArgs e)
+        {
+            pat1 f = new pat1();
+            f.Show();
+        }
     }
 }
