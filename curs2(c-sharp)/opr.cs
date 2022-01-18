@@ -32,7 +32,7 @@ namespace curs2_c_sharp_
 			error_tmp.Visible = false;
 			double tmp;
 			
-			if (double.TryParse(textBox_tmp.Text,out tmp))
+			if (!double.TryParse(textBox_tmp.Text,out tmp))
 			{
 				textBox_tmp.Text = "";
 				error_tmp.Text = "Ошибка: Неверный формат \nили пустое поле";

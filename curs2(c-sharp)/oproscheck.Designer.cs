@@ -59,7 +59,7 @@ namespace curs2_c_sharp_
             this.checkBox1.AutoSize = true;
             this.checkBox1.Enabled = false;
             this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.checkBox1.Location = new System.Drawing.Point(22, 174);
+            this.checkBox1.Location = new System.Drawing.Point(22, 175);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(54, 24);
             this.checkBox1.TabIndex = 86;

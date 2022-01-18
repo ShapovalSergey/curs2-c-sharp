@@ -84,6 +84,14 @@ namespace curs2_c_sharp_
 			{
 				vivod += "0 ";
 			}
+			if (bol_v_spine == true)
+			{
+				vivod += "1 ";
+			}
+			else
+			{
+				vivod += "0 ";
+			}
 			return vivod;
 }
 		public Opros2() { }

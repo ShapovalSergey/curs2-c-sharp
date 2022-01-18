@@ -110,39 +110,39 @@ namespace curs2_c_sharp_
 				checkBox8.Text = "Шатает при ходьбе";
 				checkBox9.Text = "Болит спина";
 
-				if (mas[6]== "1")
+				if (mas[9] == "1")
 				{
 					checkBox1.Checked = true;
 				}
-				if (mas[7]== "1")
+				if (mas[10] == "1")
 				{
 					checkBox2.Checked = true;
 				}
-				if (mas[8]== "1")
+				if (mas[11] == "1")
 				{
 					checkBox3.Checked = true;
 				}
-				if (mas[9]== "1")
+				if (mas[12] == "1")
 				{
 					checkBox4.Checked = true;
 				}
-				if (mas[10]== "1")
+				if (mas[13] == "1")
 				{
 					checkBox5.Checked = true;
 				}
-				if (mas[11]== "1")
+				if (mas[14] == "1")
 				{
 					checkBox6.Checked = true;
 				}
-				if (mas[12]== "1")
+				if (mas[15] == "1")
 				{
 					checkBox7.Checked = true;
 				}
-				if (mas[13]== "1")
+				if (mas[16] == "1")
 				{
 					checkBox8.Checked = true;
 				}
-				if (mas[14]== "1")
+				if (mas[17] == "1")
 				{
 					checkBox9.Checked = true;
 				}
@@ -159,39 +159,41 @@ namespace curs2_c_sharp_
 				checkBox6.Text = "Болит голова";
 				checkBox7.Text = "Озноб";
 				checkBox8.Text = "Жар";
-				if (mas[6] == "1")
+				if (mas[9] == "1")
 				{
 					checkBox1.Checked = true;
 				}
-				if (mas[7] == "1")
+				if (mas[10] == "1")
 				{
 					checkBox2.Checked = true;
 				}
-				if (mas[8] == "1")
+				if (mas[11] == "1")
 				{
 					checkBox3.Checked = true;
 				}
-				if (mas[9] == "1")
+				if (mas[12] == "1")
 				{
 					checkBox4.Checked = true;
 				}
-				if (mas[10] == "1")
+				if (mas[13] == "1")
 				{
 					checkBox5.Checked = true;
 				}
-				if (mas[11] == "1")
+				if (mas[14] == "1")
 				{
 					checkBox6.Checked = true;
 				}
-				if (mas[12] == "1")
+				if (mas[15] == "1")
 				{
 					checkBox7.Checked = true;
 				}
-				if (mas[13] == "1")
+				if (mas[16] == "1")
 				{
 					checkBox8.Checked = true;
 				}
-				textBox_tmp.Text = mas[14];
+				
+
+				textBox_tmp.Text = mas[17];
 			}
 			else if (spec == "Гастроэнтеролог")
 			{
@@ -207,39 +209,39 @@ namespace curs2_c_sharp_
 				checkBox7.Text = "Рвота";
 				checkBox8.Text = "Спазм в животе";
 				checkBox9.Text = "Боль в животе";
-				if (mas[6] == "1")
+				if (mas[9] == "1")
 				{
 					checkBox1.Checked = true;
 				}
-				if (mas[7] == "1")
+				if (mas[10] == "1")
 				{
 					checkBox2.Checked = true;
 				}
-				if (mas[8] == "1")
+				if (mas[11] == "1")
 				{
 					checkBox3.Checked = true;
 				}
-				if (mas[9] == "1")
+				if (mas[12] == "1")
 				{
 					checkBox4.Checked = true;
 				}
-				if (mas[10] == "1")
+				if (mas[13] == "1")
 				{
 					checkBox5.Checked = true;
 				}
-				if (mas[11] == "1")
+				if (mas[14] == "1")
 				{
 					checkBox6.Checked = true;
 				}
-				if (mas[12] == "1")
+				if (mas[15] == "1")
 				{
 					checkBox7.Checked = true;
 				}
-				if (mas[13] == "1")
+				if (mas[16] == "1")
 				{
 					checkBox8.Checked = true;
 				}
-				if (mas[14] == "1")
+				if (mas[17] == "1")
 				{
 					checkBox9.Checked = true;
 				}
